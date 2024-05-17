@@ -1,18 +1,13 @@
 # 💫 About Me:
-Hello, I'm Seemant Kamlapuri, an IT undergraduate currently pursuing my B.Tech in Information Technology at BBDITM Lucknow. With a strong passion for web development and a GPA of 8.01, I am dedicated to honing my skills and staying updated with the latest technologies.
+My name is Seemant Kamlapuri, a driven and skilled Frontend Developer with a Bachelor of Technology in Information Technology from BBDNITM, Lucknow, maintaining an impressive 8.0 GPA. I am currently an intern at Doorpix IT Solutions, where I contribute to the development of ERP systems and e-commerce web applications using technologies such as Next.js, React.js, and React Query.
 
-I have experience working as a Frontend Developer at Skillark Pvt. Ltd., where I working on to construct there Edtech Platform specially in examination portal for students and designed proper database schemas. My proficiency lies in Frontend development such as HTML, CSS, JavaScript, React JS, and Bootstrap, along with knowledge of Backend Development such as Node.js, Express, MongoDB, SQL, C++, and Firebase.
+Throughout my career, I have gained valuable experience through various internships. At The Redx Technologies Ltd., I honed my skills in designing and implementing web services and APIs using the MERN stack, while collaborating with cross-functional teams. During my time at Skillark Pvt Ltd., I worked on an online exam portal, demonstrating my ability to create reusable UI components and design robust database schemas.
 
-In addition to my academic pursuits, I actively contribute to the tech community as a Web Dev Mentor of Google Developer Student Clubs at BBDITM. I have organized various events like Weave a Web 2k23 and coordinated Google DevFest 2k22 and GDSC-WoW2k23 in Lucknow.
+In addition to my professional experience, I have undertaken significant projects like SK Media, a social media web application, and GroShop Ecom, an e-commerce platform, showcasing my proficiency in React.js, Node.js, and Firebase among other technologies.
 
-I take pride in my personal projects, including SK Media - a social media application with features such as follow/unfollow users , chatting, user authentication with JWT etc and GroShop Ecom - an ecommerce web application with user authentication and an admin panel, and my personal portfolio website. I have also worked on a mini project called 'Tells Weather' for live weather forecasting.
+As a Web Development Lead for the Google Developer Students Club at BBDNITM, I coordinated several successful events, earning recognition from faculty and peers for my leadership and organizational skills. My technical toolkit includes languages like C++, HTML/CSS, JavaScript, and SQL, as well as frameworks and tools such as Git/GitHub, Bootstrap, Tailwind CSS, MongoDB, Express.js, and Node.js.
 
-Recognized for my achievements I have solved over 200+ coding questions on platforms like CodeStudio and GeeksforGeeks.
-
-Outside of academics, I actively participate in extracurricular activities. As part of Karmavesh - the zeal to create, I am the head of Technical & organize events and participate in skit performance for Utkarsh23' Fest.
-
-I am enthusiastic about exploring new opportunities and collaborating with like-minded professionals in the tech industry. Feel free to connect with me and let's discuss how we can make a positive impact together!
-
+I am passionate about leveraging my technical expertise and problem-solving abilities to create impactful web applications and am always eager to learn and grow in the dynamic field of web development.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/seemant_20_11/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/seemant-kamlapuri-b682331b5/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC6_PcZu0dIjHJDXIPyFxqpA) 
