@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Seemant Kamlapuri, a driven and skilled Frontend Developer with a Bachelor of Technology in Information Technology from BBDNITM, Lucknow, maintaining an impressive 8.0 GPA. I am currently an intern at Doorpix IT Solutions, where I contribute to the development of ERP systems and e-commerce web applications using technologies such as Next.js, React.js, and React Query.
+My name is Seemant Kamlapuri, a driven and skilled Frontend Developer with a Bachelor of Technology in Information Technology from BBDNITM, Lucknow, maintaining an impressive 8.0 GPA. I am currently a Software Developer at Techpix Software Solutions (formerly Doorpix), where I contribute to the development of ERP systems and e-commerce web applications using technologies such as Next.js, React.js, and React Query.
 
 Throughout my career, I have gained valuable experience through various internships. At The Redx Technologies Ltd., I honed my skills in designing and implementing web services and APIs using the MERN stack, while collaborating with cross-functional teams. During my time at Skillark Pvt Ltd., I worked on an online exam portal, demonstrating my ability to create reusable UI components and design robust database schemas.
 
